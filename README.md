@@ -141,6 +141,12 @@ We welcome contributions from **GSSoC contributors and all open source enthusias
 
 ---
 
+## 🥹 Thanks to fellow contributors
+
+<a href="https://github.com/Yash22222/BMC-Product-Reviews-Web-Scrapping-Sentiment-Analysis/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Yash22222/BMC-Product-Reviews-Web-Scrapping-Sentiment-Analysis" />
+</a>
+
 ## 📜 License
 
 This project is licensed under the **MIT License**.
