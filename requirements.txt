@@ -1,12 +1,12 @@
-selenium==4.15.2                 # Browser automation
-playwright==1.43.0               # Headless browser automation
+openpyxl==3.1.5                  # Read/write Excel files (.xlsx)
+beautifulsoup4==4.12.3
 undetected-chromedriver==3.5.5   # Bypasses bot detection (for Selenium)
 nltk==3.8.1                      # Tokenization, stopwords, POS tagging, etc.
-vaderSentiment==3.3.2           # Rule-based sentiment analysis (VADER)
+vaderSentiment==3.3.2            # Rule-based sentiment analysis (VADER)
 pandas==2.2.2                    # DataFrames for organizing scraped and analyzed data
 numpy==1.26.4                    # Numerical operations, required by pandas & matplotlib
 matplotlib==3.8.4                # Basic charting (pie chart, bar chart)
 wordcloud==1.9.3                 # Word cloud visualization
-openpyxl==3.1.2                  # Read/write Excel files (.xlsx)
 xlsxwriter==3.2.0                # Excel report generation with formatting
 tqdm==4.66.4                     # Nice progress bars for loops and downloads
+selenium==4.15.2                 # Browser automation
