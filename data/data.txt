@@ -1,0 +1,3 @@
+Folder for final (in Excel or CSV)
+
+Product Name	Review Title	Overall Rating	Industry	Function	Date	Other Vendors	Country	Pros	Cons	Overall Comment	Sentiment
